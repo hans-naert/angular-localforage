@@ -18,6 +18,7 @@
     "@angular/platform-browser": "^15.0.0",
     "@angular/platform-browser-dynamic": "^15.0.0",
     "@angular/router": "^15.0.0",
+    "@angular/service-worker": "^15.0.0",
     "localforage": "^1.10.0",
     "ngforage": "^8.0.1",
     "rxjs": "~7.5.0",
